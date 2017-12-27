@@ -1,0 +1,22 @@
+IsilexLite (fork Isilex 2014) est distribué en licence GPL v.3. Ce site présente ce qu'IsilexLite v. 1.2.1 (compatible baseX 8.6.4 + onLine CSS editor) sait faire: créer et gérer une collection sur le Web, éditer des données (ici, avec l'alphabet, vous accèderez à un faux Atlas) que certains utilisateurs peuvent valider, modifier, exporter en PDF ou en Word, ajouter un corpus en ligne interrogeable avec un puissant moteur de recherches, annoter automatiquement ce corpus avec les données issues de la base encyclopédique. Avec IsilexLite, vous pouvez gérer de grosses collections documentaires XML; gérer votre CSS en ligne; héberger vos données sur n'importe quelle machine; uploader des images et les lier à vos données; corriger, valider vos fiches et votre corpus - et le tout dans votre propre site Web bilingue. Accessoirement, nous vous fournissons même un sous-domaine...
+
+Guide d'utilisations (+)
+
+IsilexLite est un Serveur Web, un CMS (Content Management System ou Gestionnaire de contenu Web) et un gestionnaire de bases de données XML lié à BaseX codé en XQuery par Xavier-Laurent Salvador et Sylvain Chea. Vous pouvez même créer vos propres Doodle CoNote ! C'est aussi un gestionnaire privé de Réseau Social: il fédère les idées. En mode CMS, vous éditez des pages associées à des données. En mode "Social Network", vous privilégiez les échanges et les commentaires. Dans les deux cas, vous produisez une ressource XML de haute qualité.
+
+C'est le couteau suisse du travail d'équipe. Contrairement àWordPress, qui ne vous permet pas de publier vos données en ligne et qui exige que vous disposiez d'un service d'hébergement, Isilex une fois démarré sert votre site Web sur votre réseau de laboratoire ou votre entreprise, vous permet de modifier vos données et de les publier. Il permet par exemple d'intégrer facilement des contenus Multimedias et de gérer des fiches liées. Voulez-vous voir des exemples d'utilisation?  
+
+Avec IsilexLite, je peux:
+
+- Créer un corpus, seul ou à plusieurs et le publier sur le web
+- Créer des groupes de rédacteurs par taches de projets.
+- Exporter en .odt (Office) ou en PDF mes données: par fiche ou par lots
+- Marquer en un clic toutes les occurrences, même conjuguées, d'un mot dans une fiche
+- Modifier les pages Web du site en un clic
+- Modifier les données de la base XML en un clic
+- Demander la validation des données par le modérateur du projet
+- Modifier la configuration du site
+- Gérer très facilement un site bilingue
+- Créer un forum
+- Créer un Réseau social interne au service ou à l'entreprise
+ [Breaking news: Isilex is proud to announce, Cozette Griffin-Kremer (CRBC, Brest), Guoqiang Li (Université Paris Ouest), Perrine Mane (CNRS), Charlotte von Verschuer (EPHE) publish Dictionary of Traditional Agriculture, English-French-Chinese-Japanese Dicat  in collaboration with Isilex (Philippe Pons)] 
