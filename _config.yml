@@ -1,0 +1,25 @@
+theme: jekyll-theme-time-machine
+source: .
+baseurl: "/easy-xml-fr"
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+
+# Setup
+title:               Isilex
+tagline:             'Easy Collaborative XML Data Driver'
+description:         'Isilex is a CMS based on Basex'
+url:                 https://isilex.github.io/easy-xml-fr/
+baseurl: "/easy-xml-fr"
+paginate:            5
+
+# About/contact
+author:
+  name:              DIM SDTCN
+  url:               https://twitter.com/xsalvador
+  email:            
+
+# Custom vars
+version:             1.0.0
