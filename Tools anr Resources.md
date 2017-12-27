@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tools and Resources
+title: Outils et Références
 ---
 
 
