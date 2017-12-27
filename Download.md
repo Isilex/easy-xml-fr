@@ -3,4 +3,6 @@ layout: page
 title: Téléchargement
 ---
 
-Go to <a href="">Github page for Download</a>
+Aller sur <a href="https://github.com/Isilex/download">la page Github pour obtenir votre version</a>
+
+<iframe src="https://github.com/Isilex/download"/>
