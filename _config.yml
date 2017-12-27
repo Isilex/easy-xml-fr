@@ -9,8 +9,8 @@ permalink:           pretty
 
 # Setup
 title:               Isilex
-tagline:             'Easy Collaborative XML Data Driver'
-description:         'Isilex is a CMS based on Basex'
+tagline:             'Édition collaborative de données XML'
+description:         'Isilex est un CMS XML basé sur Basex'
 url:                 https://isilex.github.io/easy-xml-fr/
 baseurl: "/easy-xml-fr"
 paginate:            5
